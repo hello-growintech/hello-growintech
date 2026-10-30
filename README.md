@@ -6,9 +6,10 @@
 
 [![Website](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://growintechhq.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/growintech)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/growintech)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/growintech)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@growintechhq.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/growintech-io)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/growintechhq)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/growintechhq)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellogrowintech@gmail.com)
 
 </div>
 
@@ -16,11 +17,13 @@
 
 ## About
 
-**Grow In Tech** is a developer-driven ecosystem dedicated to building high-performance web platforms, structured learning management systems, and technical education pipelines.
+**Grow In Tech** is a technology-driven organisation focused on engineering digital solutions, building scalable software products, and developing the next generation of technology professionals.
 
-We design and ship **production-ready applications**, combining decoupled frontend micro-frontends, robust backend REST APIs, secure auth workflows, and optimized databases built to scale.
+We design, develop, and deploy modern, production-ready applications backed by **scalable architectures**, **secure backend systems**, **efficient databases**, and **intuitive user experiences**. From web platforms and learning management systems to custom software solutions, we turn ideas into functional products built for real-world use.
 
-We focus on **building software that works**: seamless user experiences, rock-solid security, structured role-based access control (RBAC), and reliable production infrastructure.
+Beyond software development, we are committed to bridging the gap between technology education and practical engineering. Through hands-on learning, collaborative projects, and industry-relevant training, we create opportunities for individuals to develop the technical skills needed to build, innovate, and contribute meaningfully to the digital world.
+
+> **We don't just teach technology. We build with it, solve problems through it, and empower others to do the same.**
 
 ---
 
@@ -97,6 +100,6 @@ We value **architectural integrity over quick shortcuts**, tight security bounda
 
 <div align="center">
 
-**Connect:** [Website](https://growintechhq.com) · [LinkedIn](https://linkedin.com/company/growintech) · [X](https://x.com/growintech) · [Email](mailto:contact@growintechhq.com)
+**Connect:** [Website](https://growintechhq.com) · [LinkedIn](https://linkedin.com/company/growintech-io) · [Instagram](https://instagram.com/growintechhq) · [X](https://x.com/growintechhq) · [Email](mailto:hellogrowintech@gmail.com)
 
 </div>
